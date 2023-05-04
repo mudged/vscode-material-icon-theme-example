@@ -1,0 +1,8 @@
+{
+    "material-icon-theme.folders.associations": {
+        "example-folder": "Kubernetes"
+    },
+    "material-icon-theme.files.associations": {
+        "test123.yaml": "Kubernetes"
+    }
+}
